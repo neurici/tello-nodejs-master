@@ -1,0 +1,6 @@
+npm install -save trim-newlines
+npm install got
+npm install readline
+npm install -g pkg
+
+pkg app.js --options expose-gc
