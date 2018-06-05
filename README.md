@@ -8,4 +8,5 @@ This pkg module is to make js file executable, for linux and windows
 * npm install -g pkg
 
 Usage: pkg app.js --options expose-gc
+
 To use js scripts you cand use: node xxxxxx.js
